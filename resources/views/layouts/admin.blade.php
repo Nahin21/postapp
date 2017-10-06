@@ -330,7 +330,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header"><b>Admin</b></h1>
+                <h1 class="page-header"><b></b></h1>
 
                 @yield('content')
             </div>
