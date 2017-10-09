@@ -24,7 +24,7 @@
 
 	<h1><b>Users</b></h1>
 
-	<table class="table">
+	<table class="table table-hover">
     <thead>
       <tr>
         <th>Id</th>
